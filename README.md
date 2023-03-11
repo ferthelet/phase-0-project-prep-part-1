@@ -3,7 +3,7 @@
 ## Learning Goals
 
 - Set up your local and remote repositories for your final Software Engineering
-  Prep project
+  Prep project.
 
 ## Introduction
 
